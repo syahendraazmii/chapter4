@@ -1,0 +1,212 @@
+{
+    "nodeDatas": [
+        {
+            "location": [
+                260.0,
+                -160.0
+            ],
+            "name": "NULL.NodeFrame.Fotograma"
+        },
+        {
+            "location": [
+                53.54193115234375,
+                -121.79605102539062
+            ],
+            "name": "NULL.NodeFrame.Fotograma.001"
+        },
+        {
+            "location": [
+                330.0,
+                140.0
+            ],
+            "name": "NULL.ShaderNodeOutputMaterial.Material Output"
+        },
+        {
+            "location": [
+                200.0,
+                20.0
+            ],
+            "name": "NULL.NodeReroute.Redirigir.001"
+        },
+        {
+            "connections0Name": [],
+            "connections0NodeName": [],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "connections2Name": [
+                "Vector"
+            ],
+            "connections2NodeName": [
+                "ShaderNodeMapping.Mapeo"
+            ],
+            "connections3Name": [],
+            "connections3NodeName": [],
+            "connections4Name": [],
+            "connections4NodeName": [],
+            "location": [
+                -1220.0,
+                300.0
+            ],
+            "name": "ShaderNodeTexCoord.Coordenadas de texturizado"
+        },
+        {
+            "connections0Name": [
+                "input.001"
+            ],
+            "connections0NodeName": [
+                "NodeReroute.Redirigir"
+            ],
+            "location": [
+                -1040.0,
+                300.0
+            ],
+            "name": "ShaderNodeMapping.Mapeo",
+            "properties": [
+                "POINT",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "1.0",
+                "1.0",
+                "1.0"
+            ]
+        },
+        {
+            "connections0Name": [
+                "Normal"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeBsdfPrincipled.Principled BSDF"
+            ],
+            "location": [
+                -161.9742431640625,
+                218.8015594482422
+            ],
+            "name": "ShaderNodeNormalMap.Mapa de normales",
+            "properties": [
+                "1.0",
+                "0.5",
+                "0.5",
+                "1.0",
+                "1.0"
+            ]
+        },
+        {
+            "location": [
+                -153.4915313720703,
+                30.2532958984375
+            ],
+            "name": "NULL.ShaderNodeDisplacement.Desplazamiento"
+        },
+        {
+            "connections0Name": [
+                "Base Color"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeBsdfPrincipled.Principled BSDF"
+            ],
+            "location": [
+                -150.87100219726562,
+                483.98583984375
+            ],
+            "name": "ShaderNodeHueSaturation.Hue Saturation Value",
+            "properties": [
+                "0.0",
+                "0.0",
+                "3.0",
+                "1.0",
+                "0.800000011920929",
+                "0.800000011920929",
+                "0.800000011920929",
+                "1.0"
+            ]
+        },
+        {
+            "location": [
+                -560.0,
+                -180.0
+            ],
+            "name": "NULL.NodeReroute.Redirigir"
+        },
+        {
+            "connections0Name": [
+                "Color"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeHueSaturation.Hue Saturation Value"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -543.1583251953125,
+                594.0263671875
+            ],
+            "name": "ShaderNodeTexImage.Imagen.001"
+        },
+        {
+            "connections0Name": [
+                "Roughness"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeBsdfPrincipled.Principled BSDF"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -543.1583251953125,
+                236.5687255859375
+            ],
+            "name": "ShaderNodeTexImage.Imagen.002"
+        },
+        {
+            "connections0Name": [
+                "Height"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeDisplacement.Desplazamiento"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -549.072509765625,
+                -442.3339538574219
+            ],
+            "name": "ShaderNodeTexImage.Imagen"
+        },
+        {
+            "connections0Name": [
+                "Color"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeNormalMap.Mapa de normales"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -536.8416748046875,
+                -95.57337951660156
+            ],
+            "name": "ShaderNodeTexImage.Imagen.003"
+        },
+        {
+            "location": [
+                45.980777740478516,
+                482.1575622558594
+            ],
+            "name": "NULL.ShaderNodeBsdfPrincipled.Principled BSDF"
+        },
+        {
+            "name": "EXTRA",
+            "properties": [
+                "True",
+                "True"
+            ]
+        }
+    ]
+}
