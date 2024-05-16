@@ -8,16 +8,15 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: dindiing luar
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ValidKeywords:
-  - _NORMALMAP
+  m_Shader: {fileID: -6465566751694194690, guid: 00e3f8894c50ac34b9ca7c1e79c93976,
+    type: 3}
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -40,6 +39,102 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _DetailNormalMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_047594b1c80c8d1a9b0e46d7218e589a_Image34130_17:
+        m_Texture: {fileID: 2800000, guid: 4b4c6df98579fc0449a84acac307567b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_047594b1c80c8d1a9b0e46d7218e589a_Image34132_14:
+        m_Texture: {fileID: 2800000, guid: 8a68358d584afdb42a61860651f32bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_047594b1c80c8d1a9b0e46d7218e589a_Image34134_16:
+        m_Texture: {fileID: 2800000, guid: e7455ba64258b5941a8258c63f47ed2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_047594b1c80c8d1a9b0e46d7218e589a_Image34136_15:
+        m_Texture: {fileID: 2800000, guid: b15fe3912e0a25044ae2d061adade139, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3272500b02d45b19cb77ae09d2c7ddde_Image34130_17:
+        m_Texture: {fileID: 2800000, guid: 4b4c6df98579fc0449a84acac307567b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3272500b02d45b19cb77ae09d2c7ddde_Image34132_14:
+        m_Texture: {fileID: 2800000, guid: 8a68358d584afdb42a61860651f32bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3272500b02d45b19cb77ae09d2c7ddde_Image34134_16:
+        m_Texture: {fileID: 2800000, guid: e7455ba64258b5941a8258c63f47ed2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3272500b02d45b19cb77ae09d2c7ddde_Image34136_15:
+        m_Texture: {fileID: 2800000, guid: b15fe3912e0a25044ae2d061adade139, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_37fa4a4ded19898542dba965909244bb_Image34130_17:
+        m_Texture: {fileID: 2800000, guid: 4b4c6df98579fc0449a84acac307567b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_37fa4a4ded19898542dba965909244bb_Image34132_14:
+        m_Texture: {fileID: 2800000, guid: 8a68358d584afdb42a61860651f32bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_37fa4a4ded19898542dba965909244bb_Image34134_16:
+        m_Texture: {fileID: 2800000, guid: e7455ba64258b5941a8258c63f47ed2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_37fa4a4ded19898542dba965909244bb_Image34136_15:
+        m_Texture: {fileID: 2800000, guid: b15fe3912e0a25044ae2d061adade139, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3e90fbfe36ca2c36d2dceafe4724a017_Image34130_17:
+        m_Texture: {fileID: 2800000, guid: 4b4c6df98579fc0449a84acac307567b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3e90fbfe36ca2c36d2dceafe4724a017_Image34132_14:
+        m_Texture: {fileID: 2800000, guid: 8a68358d584afdb42a61860651f32bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3e90fbfe36ca2c36d2dceafe4724a017_Image34134_16:
+        m_Texture: {fileID: 2800000, guid: e7455ba64258b5941a8258c63f47ed2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_3e90fbfe36ca2c36d2dceafe4724a017_Image34136_15:
+        m_Texture: {fileID: 2800000, guid: b15fe3912e0a25044ae2d061adade139, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_a36473da9b6f361d26a9d877bc17c978_Image34130_17:
+        m_Texture: {fileID: 2800000, guid: 4b4c6df98579fc0449a84acac307567b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_a36473da9b6f361d26a9d877bc17c978_Image34132_14:
+        m_Texture: {fileID: 2800000, guid: 8a68358d584afdb42a61860651f32bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_a36473da9b6f361d26a9d877bc17c978_Image34134_16:
+        m_Texture: {fileID: 2800000, guid: e7455ba64258b5941a8258c63f47ed2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_a36473da9b6f361d26a9d877bc17c978_Image34136_15:
+        m_Texture: {fileID: 2800000, guid: b15fe3912e0a25044ae2d061adade139, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_ec950370e4ce4344b73b68d3d68661b0_Image34130_17:
+        m_Texture: {fileID: 2800000, guid: 4b4c6df98579fc0449a84acac307567b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_ec950370e4ce4344b73b68d3d68661b0_Image34132_14:
+        m_Texture: {fileID: 2800000, guid: 8a68358d584afdb42a61860651f32bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_ec950370e4ce4344b73b68d3d68661b0_Image34134_16:
+        m_Texture: {fileID: 2800000, guid: e7455ba64258b5941a8258c63f47ed2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DidingdalamluarCustomFunction_ec950370e4ce4344b73b68d3d68661b0_Image34136_15:
+        m_Texture: {fileID: 2800000, guid: b15fe3912e0a25044ae2d061adade139, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -98,8 +193,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Rotate: 9.13
+    - _Scale: 14.47
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -113,6 +211,7 @@ Material:
     - _Color: {r: 0.9063317, g: 0.9063317, b: 0.9063317, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _TileXY: {r: -0.7, g: 0.88, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4147403955184051919
 MonoBehaviour:
